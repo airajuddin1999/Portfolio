@@ -122,6 +122,12 @@ export const slides = [
   },
   {
     id: 5,
+    title: "Portfolio",
+    img: "/p6.png",
+    link:"https://google.com"
+  },
+  {
+    id: 6,
     title: "Sephora",
     img: "/p2.png",
     link:"https://sphoraclone.netlify.app"
